@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Event
+  - Ground
+  - Ocean
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ability
+  - Water
+  - UI
+  - Event
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ocean
+    uniqueID: 1589088455
+    locked: 0
+  - name: Ground
+    uniqueID: 867590309
+    locked: 0
+  - name: Environment
+    uniqueID: 251155353
+    locked: 0
+  - name: Events
+    uniqueID: 2414509037
+    locked: 0
